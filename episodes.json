@@ -62,5 +62,77 @@
     "file": "japanese-fusion-08-3f949816.mp3",
     "bytes": 2827118,
     "pub_date": "Fri, 06 Nov 2026 00:39:04 +0000"
+  },
+  {
+    "guid": "japanese-fusion-01-01",
+    "title": "Japanese Jazz Fusion 1.1: on Raisins",
+    "description": "A note on Raisins by Ryo Kawasaki.",
+    "file": "japanese-fusion-01-01-9f2c6dd2.mp3",
+    "bytes": 476098,
+    "pub_date": "Fri, 06 Nov 2026 19:35:22 +0000"
+  },
+  {
+    "guid": "japanese-fusion-02-02",
+    "title": "Japanese Jazz Fusion 2.2: on California Shower",
+    "description": "A note on California Shower by Sadao Watanabe.",
+    "file": "japanese-fusion-02-02-1567837d.mp3",
+    "bytes": 514550,
+    "pub_date": "Fri, 06 Nov 2026 19:35:24 +0000"
+  },
+  {
+    "guid": "japanese-fusion-03-03",
+    "title": "Japanese Jazz Fusion 3.3: on Blue Lagoon",
+    "description": "A note on Blue Lagoon by Masayoshi Takanaka.",
+    "file": "japanese-fusion-03-03-7caa1158.mp3",
+    "bytes": 407971,
+    "pub_date": "Fri, 06 Nov 2026 19:35:26 +0000"
+  },
+  {
+    "guid": "japanese-fusion-04-02",
+    "title": "Japanese Jazz Fusion 4.2: on Asayake",
+    "description": "A note on Asayake by Casiopea.",
+    "file": "japanese-fusion-04-02-be10850c.mp3",
+    "bytes": 430958,
+    "pub_date": "Fri, 06 Nov 2026 19:35:28 +0000"
+  },
+  {
+    "guid": "japanese-fusion-04-04",
+    "title": "Japanese Jazz Fusion 4.4: on Domino Line",
+    "description": "A note on Domino Line by Casiopea.",
+    "file": "japanese-fusion-04-04-037dda1c.mp3",
+    "bytes": 379967,
+    "pub_date": "Fri, 06 Nov 2026 19:35:29 +0000"
+  },
+  {
+    "guid": "japanese-fusion-05-03",
+    "title": "Japanese Jazz Fusion 5.3: on Omens of Love",
+    "description": "A note on Omens of Love by T-Square.",
+    "file": "japanese-fusion-05-03-9019e6d8.mp3",
+    "bytes": 395432,
+    "pub_date": "Fri, 06 Nov 2026 19:35:31 +0000"
+  },
+  {
+    "guid": "japanese-fusion-06-02",
+    "title": "Japanese Jazz Fusion 6.2: on Unicorn",
+    "description": "A note on Unicorn by Kazumi Watanabe.",
+    "file": "japanese-fusion-06-02-4d22631e.mp3",
+    "bytes": 367011,
+    "pub_date": "Fri, 06 Nov 2026 19:35:33 +0000"
+  },
+  {
+    "guid": "japanese-fusion-07-02",
+    "title": "Japanese Jazz Fusion 7.2: on Island",
+    "description": "A note on Island by Jimsaku.",
+    "file": "japanese-fusion-07-02-0a4e3f08.mp3",
+    "bytes": 394178,
+    "pub_date": "Fri, 06 Nov 2026 19:35:35 +0000"
+  },
+  {
+    "guid": "japanese-fusion-08-02",
+    "title": "Japanese Jazz Fusion 8.2: on Blue and Moody Music",
+    "description": "A note on Blue and Moody Music by Hiroshi Sato.",
+    "file": "japanese-fusion-08-02-2f68d11c.mp3",
+    "bytes": 409225,
+    "pub_date": "Fri, 06 Nov 2026 19:35:37 +0000"
   }
 ]
