@@ -134,5 +134,133 @@
     "file": "japanese-fusion-08-02-2f68d11c.mp3",
     "bytes": 409225,
     "pub_date": "Fri, 06 Nov 2026 19:35:37 +0000"
+  },
+  {
+    "guid": "british-prog-01",
+    "title": "British Prog Rock 1: Before the epics: London, 1967",
+    "description": "How psychedelic London opened the door to progressive rock, the five traits that define prog, and the mellotron.",
+    "file": "british-prog-01-e63dcd21.mp3",
+    "bytes": 2679997,
+    "pub_date": "Sat, 07 Nov 2026 22:25:34 +0000"
+  },
+  {
+    "guid": "british-prog-01-01",
+    "title": "British Prog Rock 1.1: on A Whiter Shade of Pale",
+    "description": "A note on A Whiter Shade of Pale by Procol Harum.",
+    "file": "british-prog-01-01-cdf7d5b4.mp3",
+    "bytes": 423435,
+    "pub_date": "Sat, 07 Nov 2026 22:25:35 +0000"
+  },
+  {
+    "guid": "british-prog-02",
+    "title": "British Prog Rock 2: Pink Floyd, sound and space",
+    "description": "From Syd Barrett's psychedelia to The Dark Side of the Moon and Wish You Were Here: why Pink Floyd's power was space, not speed.",
+    "file": "british-prog-02-13bda48f.mp3",
+    "bytes": 2636529,
+    "pub_date": "Sat, 07 Nov 2026 22:25:36 +0000"
+  },
+  {
+    "guid": "british-prog-02-02",
+    "title": "British Prog Rock 2.2: on Time",
+    "description": "A note on Time by Pink Floyd.",
+    "file": "british-prog-02-02-660c31a2.mp3",
+    "bytes": 553838,
+    "pub_date": "Sat, 07 Nov 2026 22:25:37 +0000"
+  },
+  {
+    "guid": "british-prog-03",
+    "title": "British Prog Rock 3: King Crimson, the dark laboratory",
+    "description": "The album many call the first true prog record, Robert Fripp's ever-changing band, and why Crimson are the most restless band in prog.",
+    "file": "british-prog-03-9a76cbb3.mp3",
+    "bytes": 2407487,
+    "pub_date": "Sat, 07 Nov 2026 22:25:38 +0000"
+  },
+  {
+    "guid": "british-prog-03-01",
+    "title": "British Prog Rock 3.1: on 21st Century Schizoid Man",
+    "description": "A note on 21st Century Schizoid Man by King Crimson.",
+    "file": "british-prog-03-01-dd06c2a4.mp3",
+    "bytes": 506609,
+    "pub_date": "Sat, 07 Nov 2026 22:25:39 +0000"
+  },
+  {
+    "guid": "british-prog-04",
+    "title": "British Prog Rock 4: Yes, the bright cathedral",
+    "description": "Yes's classic lineup, its five distinct voices, its optimism and harmony, and Tales from Topographic Oceans as the symbol of excess.",
+    "file": "british-prog-04-ad28f057.mp3",
+    "bytes": 2526606,
+    "pub_date": "Sat, 07 Nov 2026 22:25:40 +0000"
+  },
+  {
+    "guid": "british-prog-04-01",
+    "title": "British Prog Rock 4.1: on Roundabout",
+    "description": "A note on Roundabout by Yes.",
+    "file": "british-prog-04-01-316f3a65.mp3",
+    "bytes": 507863,
+    "pub_date": "Sat, 07 Nov 2026 22:25:41 +0000"
+  },
+  {
+    "guid": "british-prog-05",
+    "title": "British Prog Rock 5: Genesis, theater and storytelling",
+    "description": "Genesis's English stories, Peter Gabriel's costumes, Tony Banks's keyboard landscapes, and how a prog band became a pop band.",
+    "file": "british-prog-05-69486fda.mp3",
+    "bytes": 2630260,
+    "pub_date": "Sat, 07 Nov 2026 22:25:42 +0000"
+  },
+  {
+    "guid": "british-prog-05-02",
+    "title": "British Prog Rock 5.2: on Firth of Fifth",
+    "description": "A note on Firth of Fifth by Genesis.",
+    "file": "british-prog-05-02-1fc00d7d.mp3",
+    "bytes": 461887,
+    "pub_date": "Sat, 07 Nov 2026 22:25:43 +0000"
+  },
+  {
+    "guid": "british-prog-06",
+    "title": "British Prog Rock 6: Emerson, Lake and Palmer, the supergroup",
+    "description": "Prog's first supergroup: a trio with no guitarist, the Moog as lead instrument, classical showpieces at rock volume.",
+    "file": "british-prog-06-30458dc5.mp3",
+    "bytes": 2399964,
+    "pub_date": "Sat, 07 Nov 2026 22:25:44 +0000"
+  },
+  {
+    "guid": "british-prog-06-01",
+    "title": "British Prog Rock 6.1: on Lucky Man",
+    "description": "A note on Lucky Man by Emerson, Lake & Palmer.",
+    "file": "british-prog-06-01-0a37f800.mp3",
+    "bytes": 464395,
+    "pub_date": "Sat, 07 Nov 2026 22:25:45 +0000"
+  },
+  {
+    "guid": "british-prog-07",
+    "title": "British Prog Rock 7: The Canterbury scene, jazz and English whimsy",
+    "description": "Soft Machine, Caravan, Robert Wyatt and Hatfield and the North: the quieter, jazzier, funnier branch of prog.",
+    "file": "british-prog-07-9171b8cb.mp3",
+    "bytes": 2457225,
+    "pub_date": "Sat, 07 Nov 2026 22:25:46 +0000"
+  },
+  {
+    "guid": "british-prog-07-02",
+    "title": "British Prog Rock 7.2: on Sea Song",
+    "description": "A note on Sea Song by Robert Wyatt.",
+    "file": "british-prog-07-02-b9fc116b.mp3",
+    "bytes": 413404,
+    "pub_date": "Sat, 07 Nov 2026 22:25:47 +0000"
+  },
+  {
+    "guid": "british-prog-08",
+    "title": "British Prog Rock 8: Punk, survival, and the heirs",
+    "description": "How punk made prog unfashionable, how the bands survived by changing, and who carried the ideas into the nineties and beyond.",
+    "file": "british-prog-08-d3fa2be3.mp3",
+    "bytes": 2650740,
+    "pub_date": "Sat, 07 Nov 2026 22:25:48 +0000"
+  },
+  {
+    "guid": "british-prog-08-01",
+    "title": "British Prog Rock 8.1: on Paranoid Android",
+    "description": "A note on Paranoid Android by Radiohead.",
+    "file": "british-prog-08-01-7e9f85ac.mp3",
+    "bytes": 559272,
+    "pub_date": "Sat, 07 Nov 2026 22:25:49 +0000"
   }
 ]
